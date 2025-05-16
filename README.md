@@ -57,6 +57,7 @@ Para poder utilizarlo, hay que ejecuatr el script en la terminal con permisos ad
 
 ---
 Flujo del script:
+
 Verifica e instala yt-dlp y ffmpeg si no están disponibles.
 
 Solicita al usuario la URL de un video de YouTube.
